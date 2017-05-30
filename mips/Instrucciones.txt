@@ -1,0 +1,2 @@
+addi $t2, $t3, 50
+syscall
